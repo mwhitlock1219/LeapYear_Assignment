@@ -1,11 +1,9 @@
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
 public class LeapYearTest {
-
+//Used FizzBuzz as example
     @Test
     public void IsItALeapYear() {
         LeapYear leapYear = new LeapYear();
